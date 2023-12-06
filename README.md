@@ -1,6 +1,3 @@
-# ANALISE-DE-DADOS-Pesquisa-de-Clima-Organizacional-EM-SQL
-Analise de Dados de uma Pesquisa de Clima Organizacional em SQL
+# ANALISE-DE-DADOS-Dados operativos dos reservatórios do Brasil, disponibilizados pela Agência Nacional de Águas (ANA)-EM-SQL
 
-
-Descrição
-A tabela fornece informações sobre o bem-estar organizacional, contendo a visão da área e da empresa acerca das perguntas realizadas para todos os servidores civis públicos federais da Administração Pública Federal direta, autárquica e fundacional, abordadas por meio de diferentes recortes de classes e subclasses, considerando quebras de idade, gênero, órgão, entre outros.
+O Sistema Interligado Nacional (SIN) é um sistema hidrotérmico de grande porte para produção e transmissão de energia elétrica, cuja operação envolve modelos complexos. A operação hidráulica dos sistemas de reservatórios integrantes do SIN é uma atividade de tempo real que consiste na operacionalização das diretrizes hidráulicas que, utilizando a capacidade de regulação dos reservatórios, permite o gerenciamento do armazenamento de água nos reservatórios, considerando a otimização energética, o controle de cheias e o atendimento aos usos múltiplos da água
