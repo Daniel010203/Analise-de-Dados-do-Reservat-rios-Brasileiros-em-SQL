@@ -1,0 +1,4 @@
+Analise da tabela do reservatórios com toda a BD com o limite de 9000 linhas da tabela.
+
+SELECT *
+FROM `basedosdados.br_ana_reservatorios.sin` LIMIT 9000
